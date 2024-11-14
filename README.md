@@ -1,6 +1,6 @@
 # Pesquisa Binária
 
-Código de pesquisa binária desenvolvido para questõs de estudo de estrutura de dados. 
+Código de pesquisa binária desenvolvido para questões de estudo de estrutura de dados. 
 
 ## No código contém:
 - Uma função de busca binária;
